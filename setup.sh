@@ -1,3 +1,7 @@
+apt-get install openslide-tools
+pip install openslide-python
+pip install opencv-python
+
 mkdir -p ~/.streamlit/
 
 echo "\
