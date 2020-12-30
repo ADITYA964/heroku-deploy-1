@@ -9,6 +9,6 @@ tensorflow==2.3.1
 pandas==1.1.5
 Pillow==8.0.1
 scikit_learn==0.24.0
-scikit-image
+scikit-image==0.16.2
 openslide==3.4.1
 gunicorn==19.9.0
